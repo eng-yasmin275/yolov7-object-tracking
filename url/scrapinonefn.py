@@ -12,7 +12,7 @@ Scrap all the pages of search results (not the first page only)
 Repeat for : "data analysis" , "data science" , "business intelligence"
 Collect all in ( one CSV File )
 """
-#can add and eddit as you like
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
